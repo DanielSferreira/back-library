@@ -6,5 +6,5 @@ app.use('/', require('./routes/user'))
 app.use('/books', require('./routes/books'))
 
 app.listen(port,
-  () => console.log('Vamos nessa parceiro, go go go!')
+  () => console.log('Vamos nessa parceiro, Go Go Go!')
 )
